@@ -2,4 +2,4 @@
 Automatic audio transcriber based on Whisper
 
 
-Google Colaboratory notebook. Here the link: https://colab.research.google.com/drive/1I7WesEYQDjz6p6cUCaWe-n3E94zYKlt4?usp=sharing
+Google Colaboratory notebook: https://colab.research.google.com/drive/1I7WesEYQDjz6p6cUCaWe-n3E94zYKlt4?usp=sharing
